@@ -29,6 +29,14 @@ A simple LLM-powered assistant for exploring the Titanic dataset using Q&A.
 
 ## 🚀 Installation & Setup
 
+### Environment Variables Setup
+```
+# In a bash terminal export them, or add them in .env file in backend directory
+export OPENAI_API_KEY='your_openai_api_key'
+export SQLITE_DB_PATH='path/to/titanic.db'
+export TITANIC_CSV_PATH='path/to/titanic.csv'
+```
+
 ### Backend Setup
 ```
 # Navigate to backend directory
