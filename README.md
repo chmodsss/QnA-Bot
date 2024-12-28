@@ -1,5 +1,8 @@
 # Titanic Dataset AI Assistant 🚢🤖
 
+![titanic_bot](https://github.com/user-attachments/assets/43373e4c-bbfe-45f1-a432-1147450984f2)
+
+
 ## Project Overview
 A simple LLM-powered assistant for exploring the Titanic dataset using Q&A.
 
